@@ -1,7 +1,3 @@
-Here is the full engineering specification formatted as a high-quality Markdown file.
-
----
-
 # THE THERMODYNAMIC LEDGER (v3.0)
 
 ## The Optimistic Protocol for Verified Autonomous Science
